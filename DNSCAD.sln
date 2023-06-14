@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSCAD", "DNSCAD\DNSCAD.csproj", "{665706F2-EFED-4295-9DC8-688A5E8FD0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665706F2-EFED-4295-9DC8-688A5E8FD0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665706F2-EFED-4295-9DC8-688A5E8FD0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665706F2-EFED-4295-9DC8-688A5E8FD0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665706F2-EFED-4295-9DC8-688A5E8FD0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA51BEBE-F648-4287-8170-8D356018730F}
+	EndGlobalSection
+EndGlobal
